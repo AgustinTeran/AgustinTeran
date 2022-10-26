@@ -7,11 +7,12 @@
 
 - 📫 Mi email: **agustintern@gmail.com**
 
+</br>
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/agust%C3%ADn-ter%C3%A1n-41aa64244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Agustín Terán" height="80" width="80" /></a>
 </p>
-</br>
+
 </br>
 <h3 align="center">Mis Lenguajes:</h3>
 
