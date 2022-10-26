@@ -3,7 +3,7 @@
 
 - 🔭 Buscando un trabajo como desarrollador de software
 
-- 👯 Mi ultimo proyecto fue un <a href="https://front-wheat-gamma.vercel.app/" alt="https://front-wheat-gamma.vercel.app/">ecommerce</a> de tecnologia usando el stack PERN (PostgreSql, Express, React, Node.js)
+- 👯 Mis ultimos proyectos fueron un <a href="https://front-wheat-gamma.vercel.app/" alt="https://front-wheat-gamma.vercel.app/">ecommerce</a> de tecnologia y una página de <a href="https://pi-videogames-lovat.vercel.app/home" alt="https://pi-videogames-lovat.vercel.app/home">videojuegos</a>, en los dos usando el stack PERN (PostgreSql, Express, React, Node.js)
 
 - 📫 Mi email: **agustintern@gmail.com**
 
