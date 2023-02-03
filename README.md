@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Agustin</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<h4><a href="https://portfolio-ten-olive-79.vercel.app/" target="_blank">Portfolio</a></h4>
+
 - 🔭 Buscando un trabajo como desarrollador de software
 
 - 👯 Mis ultimos proyectos fueron un <a target="_blank" href="https://front-wheat-gamma.vercel.app/" alt="https://front-wheat-gamma.vercel.app/">ecommerce</a> de tecnologia y una página de <a target="_blank" href="https://pi-videogames-lovat.vercel.app/home" alt="https://pi-videogames-lovat.vercel.app/home">videojuegos</a>, en los dos usando el stack PERN (PostgreSql, Express, React, Node.js)
@@ -10,7 +12,7 @@
 </br>
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/agust%C3%ADn-ter%C3%A1n-41aa64244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Agustín Terán" height="80" width="80" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/agust%C3%ADn-jos%C3%A9-ter%C3%A1n-41aa64244/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Agustín Terán" height="80" width="80" /></a>
 </p>
 
 </br>
